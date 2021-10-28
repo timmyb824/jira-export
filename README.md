@@ -1,6 +1,6 @@
 ## Summary
 
-A script that exports Jira ticket data, stores it in a local postgres database, performs calculations and analysis of the data. and exports the results to a CSV. Additionally, the CSV can be uploaded to AWS S3 if desired.
+A script that exports Jira ticket data, stores it in a local postgres database, performs calculations and analysis of the data, and exports the results to a CSV. Additionally, the CSV can be uploaded to AWS S3 if desired.
 
 ## Dependicies
 
