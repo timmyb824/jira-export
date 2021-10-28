@@ -16,7 +16,7 @@ pip install -r requirements.txt # installs requirements
 ## Authentication
 
 The following variables can be set in a .env file:
-- `email`- email of the Jira users
+- `email`- email of the Jira user
 - `api_token` - Jira API token
 - `server` - Jira server hostname
 - `jql` - Jira query to filter tickets
