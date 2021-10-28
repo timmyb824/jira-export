@@ -1,0 +1,5 @@
+.vscode
+.python-version
+.env
+other-scripts/
+*.csv
